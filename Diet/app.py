@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import LabelEncoder
-from sklearn.ensemble import RandomForestClassifier  # Replace with your model or method
+from sklearn.ensemble import RandomForestClassifier  
 import pickle
 
 def predict_food(calories, food_type, model):
