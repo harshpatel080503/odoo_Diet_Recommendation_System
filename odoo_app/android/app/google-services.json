@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029882458657",
+    "project_id": "die-plan",
+    "storage_bucket": "die-plan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029882458657:android:30c766f1699cb203b52960",
+        "android_client_info": {
+          "package_name": "com.ex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKjFg0YsdF-YR7KZ06Vi4XUqqvs6onqjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
